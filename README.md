@@ -1,3 +1,2 @@
-# go-surf
-Surf website
+#Surf website
 https://bink-git.github.io/go-surf/
